@@ -2,7 +2,7 @@
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="120">
 </p>
 
-🇬🇧[View the English version](https://github.com/Caroline-menard/Customer-insight-dashboard/new/main?filename=README.md)
+🇬🇧 [View the English version](https://github.com/Caroline-menard/Customer-insight-dashboard/new/main?filename=README.md)
 
 
 # Customer Insight Dashboard
