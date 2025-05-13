@@ -42,10 +42,34 @@ Ce projet propose une **petite application locale**, avec un environnement lége
 - Demarrage du dashboard: <br>
 `streamlit run J_Dashboard.py`
 
-# Description de l'application:
+# Description de l'application
 ## Page d'accueil:
 🔁 Bouton de rafraîchissement des données (en bas de page) :
 Ce bouton permet de recharger les données affichées dans le dashboard.
 
   >💡 Dans le projet réel, ce bouton déclenche un appel sécurisé vers les APIs internes pour interroger la base de données métier et récupérer les dernières activités.
+<p align="center">
+  <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/Capture%20d%E2%80%99e%CC%81cran%202025-05-13%20a%CC%80%2022.10.25.png?raw=true" alt="Page d'accueil" width="800">
+</p>
 
+## Check-up général
+La page Check-up général donne une vue synthétique de l’état d’activité global sur la plateforme.
+
+Elle contient notamment :
+
+   - **Des indicateurs clés :**
+
+     > - Nombre total de teams
+     > - Nombre de teams actives sur les 30 derniers jours
+     > - nombre de teams inactives sur les 6 derniers mois
+     > - La dernière activité détectée : nom de l’équipe la plus récemment active et date correspondante
+
+  -  **Les dernières équipes arrivées :** tableau listant les teams récemment intégrées, leur effectif et leur date d’arrivée
+
+  - **Un graphique de la répartition de la date de derniére activité par équipe.**
+
+🛎️ Cette page permet à un Customer Success Manager ou un responsable produit d’avoir en un coup d'œil une idée de l’engagement global des clients, et de repérer rapidement les signaux faibles (arrivées récentes à suivre, inactivité prolongée…).
+
+<p align="center">
+  <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/Capture%20d%E2%80%99e%CC%81cran%202025-05-13%20a%CC%80%2022.17.52.png?raw=true" alt="Check-up general" width="800">
+</p>
