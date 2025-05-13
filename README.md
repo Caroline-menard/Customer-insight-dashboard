@@ -2,6 +2,9 @@
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="120">
 </p>
 
+🇬🇧[View the English version](https://github.com/Caroline-menard/Customer-insight-dashboard/new/main?filename=README.md)
+
+
 # Customer Insight Dashboard
 **Contexte:** *Ce projet est une adaptation d’un outil développé dans un contexte professionnel réel. Entreprise B2B, offrant un accès à des services via une plateforme web.  
 Chaque client y est représenté par une **équipe** regroupant plusieurs **utilisateurs finaux**, aux profils et usages variés.*
