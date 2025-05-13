@@ -2,6 +2,8 @@
   <img src="https://github.com/Caroline-menard/-Caroline-menard/blob/main/logo_blanc.png?raw=true" alt="Logo Caroline Ménard" width="120">
 </p>
 
+🇫🇷 [Voir la version française](https://github.com/Caroline-menard/Customer-insight-dashboard/blob/main/README.md)
+
 # Customer Insight Dashboard
 
 *This project is an adaptation of a tool originally developed in a real professional environment.*
