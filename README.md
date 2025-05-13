@@ -19,8 +19,9 @@ Ce projet propose une **petite application locale**, avec un environnement lége
   > - Customer Success Managers <br>
   > - Chargé(e)s de support ou d’onboarding
 
-🎯 Son objectif principal : améliorer la qualité de l’accompagnement client, en particulier durant les phases sensibles comme l’onboarding, la prise en main du produit, et le suivi post-lancement.
-🔍 Ce que permet ce dashboard :
+ **Son objectif principal :** améliorer la qualité de l’accompagnement client, en particulier durant les phases sensibles comme l’onboarding, la prise en main du produit, et le suivi post-lancement.
+
+ **Ce que permet ce dashboard :**
 
   Suivre l’activité des utilisateurs de manière simple et visuelle
 
@@ -81,11 +82,11 @@ Fonctionnalités principales :
 
   > - Un vue globale des Teams les plus actives *(screen1)* <br> 
   > -  Filtrage dynamique des équipes et affichage de sa composition. *(screen2)* <br> 
-  > -  Visualisation synthétique des comportements (volume d’actions, type d’activité, derniers accès…) *(screen3 & 4)*<br>
+  > -  Visualisation  des comportements (volume d’actions, type d’activité, derniers accès…) *(screen3 & 4)*<br>
   > - Identification des “super users” au sein de chaque équipe <br>
   > -  Génération automatique d’un rapport d’activité PDF en un clic, intégrant : <br>
          >  Un rapport global sur les 30 derniers jours.<br>
-         >  Des mini-rapports détaillés pour chaque équipe 'ajoutés'.<br>
+         >  Des mini-rapports détaillés pour chaque équipe 'ajoutée'.<br>
          Fonction de génération du pdf dans `Utils.rapport_generator.py` 
 
 ➡️ Un exemple de fichier généré est disponible dans le dossier `Rapports/` sous le nom `rapport_client_{date}.pdf.`
