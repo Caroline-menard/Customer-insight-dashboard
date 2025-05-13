@@ -18,7 +18,7 @@ with open("assets/style.css") as f:
 st.markdown("<div style='margin-top: 2rem;'></div>", unsafe_allow_html=True)
 space1,mb, space2 = st.columns([3,1,3])
 with mb:
-    logo = Image.open("motherbase.png")
+    logo = Image.open("fake_logo.png")
     st.image(logo, width=180)
 
 st.session_state["data_loaded"] = True

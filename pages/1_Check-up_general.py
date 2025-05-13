@@ -21,7 +21,7 @@ with open("assets/style.css") as f:
 st.markdown("<div style='margin-top: 2rem;'></div>", unsafe_allow_html=True)
 titre,mb, = st.columns([4,1])
 with mb:
-    logo = Image.open("motherbase.png")
+    logo = Image.open("fake_logo.png")
     st.image(logo, width=100)
 
 team =  pd.read_parquet(CACHE_DIR / "global.parquet")
